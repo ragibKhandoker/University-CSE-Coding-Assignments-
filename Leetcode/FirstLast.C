@@ -69,37 +69,4 @@ int main(){
 
 
 
-    // int count = 0;
-    // int arr1[c1];
-    // int s1=0;
-    // while(s1<c1){
-    //     if(p1 == arr[s1]){
-    //         arr1[count] = s1;
-    //         count++;
-    //     }
-    //     s1++;
-    // }
-    // // printf("%d",s1);
-    // if(count > 0){
-    //     printf("\nNumber found %d times at indices: ",count);
-    //     for(int i=0; i<count; i++){
-    //         printf("%d",arr1[i]);
-    //     }
-    // }else{
-    //     printf("\nNumber not found in the array\n");
-    // }
-
-
-
-
-    // int c=0;
-    // int g1 = 0;
-    // while(g1<c1){
-    //     if(p1 == arr[g1]){
-    //         c++;
-    //     }
-    //     g1++;
-    // }
-    // if(c > 0){
-    //     printf("\nNumber of same found:\n%d",c);
-    // }
+    
