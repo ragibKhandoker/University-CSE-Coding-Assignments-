@@ -22,7 +22,6 @@ int main(){
             lit = array[e1];
         }
 
-
         int e3;
         for(e3=0; array[e1][e3] != '\0' && big[e3] != '\0' && array[e1][e3] == big[e3]; e3++);
         if(big[e3] < array[e1][e3]){
