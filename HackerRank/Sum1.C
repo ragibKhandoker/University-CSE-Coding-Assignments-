@@ -16,10 +16,10 @@ int main(){
     }
     int k=0;
     int sum = 0;
-    while(k<=x1){
+    while(k<x1){
         sum+=k;
         k++;
     }
-    printf("\n%d",sum);
+    printf("%d\n",sum);
     return 0;
 }
