@@ -1,1 +1,1 @@
-# CSE-Coding Problems including University assignments, Online Judge like HackerRank, Codeforces, Leetcode and Phitron online courses.
+# Coding Solutions including University assignments, Online coding platform like HackerRank, Codeforces, Leetcode and (Jhanker Mahboob's) Phitron online course.
