@@ -1,4 +1,4 @@
-#This task is for O(n) solution
+//This task is for O(n) solution
 #include <iostream>
 using namespace std;
 int main(){
