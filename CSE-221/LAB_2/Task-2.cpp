@@ -1,6 +1,6 @@
 // Always take input in sorted
+// This code is in O(n) format
 #include <iostream>
-// #include <stdbool.h>
 using namespace std;
 int main(){
     int c1;
