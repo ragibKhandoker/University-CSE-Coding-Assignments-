@@ -1,0 +1,6 @@
+The array is: 
+20 8 9 3 10 7 100 12 
+The reverse array is: 
+12 100 7 10 3 9 8 20 
+The final output is: 
+3 9 8 20 -212337375 
