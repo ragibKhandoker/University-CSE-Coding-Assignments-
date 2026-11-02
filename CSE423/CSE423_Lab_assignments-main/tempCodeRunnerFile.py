@@ -1,0 +1,7 @@
+glColor3f(0.4,0.26,0.13)
+    glBegin(GL_QUADS)
+    glVertex2f(0,0)
+    glVertex2f(window_width,0)
+    glVertex2f(window_width,window_height * 0.4)
+    glVertex2f(0,window_height * 0.4)
+    glEnd()
